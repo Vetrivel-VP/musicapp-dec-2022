@@ -6,6 +6,8 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
+    "axios": "^1.2.1",
+    "firebase": "^9.15.0",
     "framer-motion": "^7.10.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
